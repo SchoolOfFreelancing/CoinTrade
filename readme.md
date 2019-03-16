@@ -1,14 +1,14 @@
-# OpenTrade is the best opensource cryptocurrency exchange!
+# Coin Exchange is the leading cryptocurrency exchange platform for PCs, IoT devices, servers and the cloud.  
 
 Live version: https://trade.multicoins.org/
 
 
 Step-by-step install instructions:
 
-1. Register on the VPS hosting like this https://m.do.co/c/1ece5d76d5cd
+1. Register for cloud VPS Linux from www.digitalocean.com
 2. Create "Droplet" Ubuntu 16 x64 / 1GB / 1vCPU / 25 GB SSD
 3. Log in to Droplet over SSH (You will receive a email with IP, username and password)
-4
+
 
 ```
 [sudo] apt-get update
